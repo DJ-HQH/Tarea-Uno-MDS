@@ -1,5 +1,6 @@
 # Trabajo clonado y adaptado de: https://www.geeksforgeeks.org/create-a-simple-animation-using-turtle-in-python/
 # Adaptacion: Daniel Esteban Valencia (Es decir, el dueño de este repositorio)
+# id: 224159X
 # required modules
 from turtle import * 
 from random import randint
